@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning; Python and Linux Hacking.
 - 💞️ I’m looking to collaborate on; Discord Or Gmail, 
 
-- My discord is : 'theCodedTrumpet802'
+- My discord is : 'theCodedTrumpet802' Server Link >; https://discord.gg/EtCCwwZ3
 - My gmail is : 'carsonbaker866@gmail.com'
 
 <!---
